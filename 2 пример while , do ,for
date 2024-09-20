@@ -1,0 +1,23 @@
+int main()
+{
+    int a,b;
+    cout << "ввкдите a и b";
+    cin>>a;
+    cout << a;
+    cin>>b;
+    cout << b;
+    i = (a% b)? a+ 1 ; a 
+    while(i <= b){
+        cout<< i * i;
+        cout<< i =+ 2;
+    }
+    return 0;
+}
+\\\ cout << i*i ;
+    i =+ B;
+    while (a<=b)
+
+    for(int i = (a% 2) ? a * 1 : a) ;
+    i<=b; 
+    i+=2;
+    cout << i*i
